@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mhlee80/movie_app_2020-ReactJS/static/css/main.9b7ba905.chunk.css",
+    "main.js": "/mhlee80/movie_app_2020-ReactJS/static/js/main.7341aed3.chunk.js",
+    "main.js.map": "/mhlee80/movie_app_2020-ReactJS/static/js/main.7341aed3.chunk.js.map",
+    "runtime-main.js": "/mhlee80/movie_app_2020-ReactJS/static/js/runtime-main.ffec517e.js",
+    "runtime-main.js.map": "/mhlee80/movie_app_2020-ReactJS/static/js/runtime-main.ffec517e.js.map",
+    "static/js/2.1758c5c1.chunk.js": "/mhlee80/movie_app_2020-ReactJS/static/js/2.1758c5c1.chunk.js",
+    "static/js/2.1758c5c1.chunk.js.map": "/mhlee80/movie_app_2020-ReactJS/static/js/2.1758c5c1.chunk.js.map",
+    "index.html": "/mhlee80/movie_app_2020-ReactJS/index.html",
+    "static/css/main.9b7ba905.chunk.css.map": "/mhlee80/movie_app_2020-ReactJS/static/css/main.9b7ba905.chunk.css.map",
+    "static/js/2.1758c5c1.chunk.js.LICENSE.txt": "/mhlee80/movie_app_2020-ReactJS/static/js/2.1758c5c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffec517e.js",
+    "static/js/2.1758c5c1.chunk.js",
+    "static/css/main.9b7ba905.chunk.css",
+    "static/js/main.7341aed3.chunk.js"
+  ]
+}
